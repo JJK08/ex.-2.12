@@ -1,0 +1,3 @@
+C:/Users/jinji/CLionProjects/gitdemo/cmake-build-debug/CMakeFiles/gitdemo.dir
+C:/Users/jinji/CLionProjects/gitdemo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jinji/CLionProjects/gitdemo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
